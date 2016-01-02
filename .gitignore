@@ -2,3 +2,5 @@
 __pycache__/
 *.py[cod]
 
+# Tux homedir
+tux_homedir/
